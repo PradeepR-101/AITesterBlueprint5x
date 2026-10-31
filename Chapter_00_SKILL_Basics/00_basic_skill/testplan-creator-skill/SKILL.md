@@ -8,7 +8,7 @@ tags:
   - test plan
 
 ---
-
+<!-- qaskills.sh/dashboard (goto this website to template to create the skill) -->
 # Test Plan Creator 
 
 Your task is to create a test plan based on the knowledge shared by the user, Make sure that you use proper templates that we have mentioned in the below comments. .
